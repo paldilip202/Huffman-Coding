@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Pal Dilip/OneDrive/Desktop/SiddharthBawane2-1614694512-Sidb07/SiddharthBawane2",
+      "program": "c:/Users/Pal Dilip/OneDrive/Desktop/SiddharthBawane2-1614694512-Sidb07/SiddharthBawane2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
